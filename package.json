@@ -1,0 +1,13 @@
+{
+  "name": "serverless-goof",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "dustjs-linkedin": "2.5.0",
+    "qs": "6.3.1"
+  },
+  "devDependencies": {}
+}
